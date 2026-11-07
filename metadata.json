@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Playlist Studio - Group Title & Channel Manager",
+  "description": "Aplikasi pengelola playlist IPTV profesional untuk mencari, mengedit, menyusun group-title, merapikan saluran, dan preview live stream.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
